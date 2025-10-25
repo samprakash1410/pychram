@@ -1,4 +1,4 @@
-*python notes*
+///python notes///
 Day 1 variables and data types:                             git commands:      
 *******************************************                 **git init, git status, git add .
 variables is a name given to memory location in program     git commit -m "notes", git log,
@@ -9,3 +9,14 @@ print("my name is :",name)                                   mkdir notes > used 
 print("my age is :",age)                                     rmdir notes > user for remove folder or file in repo.
 print("my amoutn is :",amout)//
 
+key words are reserved in python they are 33 types are present in python.
+set data_type:
+              set is an unorder collection of unique items.set is defined by values seperated by commas inside braces{}.
+//student_id={556,557,535}
+  print(student_id)
+  print(type(student_id))//
+dict:
+     Python dictionary is an ordered collection of items. It stores elements in key/value pairs.
+//food_city={'icecream':'turkey','ramens' : 'japan','biryanis':'india'}
+  print(food_city)//
+  
