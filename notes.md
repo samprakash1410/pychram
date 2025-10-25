@@ -19,4 +19,6 @@ dict:
      Python dictionary is an ordered collection of items. It stores elements in key/value pairs.
 //food_city={'icecream':'turkey','ramens' : 'japan','biryanis':'india'}
   print(food_city)//
+operators:
+          1.arithematic operators(+*/-)2.relational(==,!=,>,<)3.assignment(=,+=,-=)4.logical(not,and,or)
   
