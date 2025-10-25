@@ -21,4 +21,4 @@ dict:
   print(food_city)//
 operators:
           1.arithematic operators(+*/-)2.relational(==,!=,>,<)3.assignment(=,+=,-=)4.logical(not,and,or)
-  
+
