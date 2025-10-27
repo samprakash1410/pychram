@@ -1,0 +1,6 @@
+x=str("s1")
+y=str(9)
+z=str(6.0)
+print(x)
+print(y)
+print(z)
