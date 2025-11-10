@@ -25,4 +25,8 @@ type casting:
     this method convert the python varaiable datatype into a certain datatype in order to perform operations by users.
 input:
   most programs need to collect user data such as name,age,number it is done using input()function
+
+day 2:
+string: 
+      string is a data type that store a sequence of characters.
   
