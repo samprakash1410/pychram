@@ -29,4 +29,15 @@ input:
 day 2:
 string: 
       string is a data type that store a sequence of characters.
+contatination:
+    using string + operation and replace them using * opertinos.
+slicing: 
+  is a way to extreat a portion of string by specify start and end indexes.
+format():
+ another way to format string using format_method.
+  name="hp"
+  age=45
+  amout=50
+  print("my name is {} my age is {} my amout is {}".format(name,age,amout))//
+conditional :
   
