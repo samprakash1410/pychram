@@ -3,7 +3,7 @@ b=["sony","samsung","nokia","apple","oneplus"]
 c=[7,"nokia",3.14,True]
 print(a)
 print(b)
-print(len(c))
+print(len(a))
 print(c)
 print(type(a))
 print(type(b))
