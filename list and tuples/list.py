@@ -1,0 +1,10 @@
+a=[5,6,7,8,9]
+b=["sony","samsung","nokia","apple","oneplus"]
+c=[7,"nokia",3.14,True]
+print(a)
+print(b)
+print(len(c))
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
