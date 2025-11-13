@@ -39,5 +39,12 @@ format():
   age=45
   amout=50
   print("my name is {} my age is {} my amout is {}".format(name,age,amout))//
-conditional :
+
+list:
+ list are order collections of items that allows for easy use of set of data.list value are place in square brackets[].
+//fruits=["apple","banana","mango","grapes"]
+  print(fruits)
+  print(type(fruits))//
+types in list:
+
   
