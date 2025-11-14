@@ -46,5 +46,26 @@ list:
   print(fruits)
   print(type(fruits))//
 types in list:
+append():
+ add an element to end of a list.
+//fruits.append("orange")
+  print(fruits)//
+sort():
+ sorts the list in ascending order default.
+//fruits.sort()
+  print(fruits)//
+reverse():
+ reverse the order of the element in a list.
+//fruits.reverse()
+  print(fruits)//
+index():
+ return the index of the first occurance of a specific elements.
+//print(fruits.index("mango"))//
+remove():
+ remove the first occurance of a specific elements.
+//fruits.remove("banana")
+  print(fruits)//
+
+Tuples:
 
   
