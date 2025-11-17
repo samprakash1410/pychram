@@ -40,7 +40,7 @@ format():
   amout=50
   print("my name is {} my age is {} my amout is {}".format(name,age,amout))//
 
-list:
+list: is also mutable it not be change
  list are order collections of items that allows for easy use of set of data.list value are place in square brackets[].
 //fruits=["apple","banana","mango","grapes"]
   print(fruits)
@@ -66,6 +66,7 @@ remove():
 //fruits.remove("banana")
   print(fruits)//
 
-Tuples:
+Tuples: is immutalbe it can be change any values by using this"()"
+
 
   
