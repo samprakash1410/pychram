@@ -1,0 +1,5 @@
+tup=()
+tup=("skoda","tata")
+tup=tuple("skoda")
+print(tup)
+print(tuple)

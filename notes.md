@@ -66,7 +66,12 @@ remove():
 //fruits.remove("banana")
   print(fruits)//
 
-Tuples: is immutalbe it can be change any values by using this"()"
+Tuples: is immutalbe it can be change any values by using this"()" paranthesis.tuple can hold elements of diff data types.
+//colors=("red","green","blue","yellow")
+  print(colors)
+  print(type(colors))//
+
+day3:
 
 
   
