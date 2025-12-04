@@ -87,7 +87,8 @@ dict is a data structure that stores value in key pair.value in a data dict can 
   sets:
   set is an unordered collection of unique items.it is defined by values seperated by commas inside braces{}.
 //student_id={556,557,535}
-
+ methods():
+ 
 
 
   
