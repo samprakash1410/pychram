@@ -72,6 +72,22 @@ Tuples: is immutalbe it can be change any values by using this"()" paranthesis.t
   print(type(colors))//
 
 day3:
+dictionary:
+dict is a data structure that stores value in key pair.value in a data dict can be any data type can be duplicate.
+//student={'name':'hp','age':45,'amout':50}
+  print(student)
+  print(type(student))//
+
+  accessing dict:
+   we can access a value from a dict by using the key with in the square bracket or get method().
+
+   iteration in dict:
+    we can iterate through a dict using for loop to get keys and values.
+
+  sets:
+  set is an unordered collection of unique items.it is defined by values seperated by commas inside braces{}.
+//student_id={556,557,535}
+
 
 
   
