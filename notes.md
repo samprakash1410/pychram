@@ -89,6 +89,20 @@ dict is a data structure that stores value in key pair.value in a data dict can 
 //student_id={556,557,535}
  methods():
  
+ adding elements to sets: the set is done through the set.add() function, where an appropriate record value is created to store in the hash table.
+//student_id.add(558)
+  print(student_id)//
+
+union:
+ Union() method in Python is an inbuilt function provided by the set data type. It is used to combine multiple sets into a single set, containing all unique elements from the given sets.
+
+ intersection:
+ The intersection of two given sets is the largest set, which contains all the elements that are common to both sets. given sets A and B is a set which consists of all the elements which are common to both A and B.
+
+ 
+
+
+
 
 
   
