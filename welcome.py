@@ -1,1 +1,2 @@
-print(8/5)
+for i in range(12):
+    print(i)
