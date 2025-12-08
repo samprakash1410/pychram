@@ -71,7 +71,7 @@ Tuples: is immutalbe it can be change any values by using this"()" paranthesis.t
   print(colors)
   print(type(colors))//
 
-day3:
+day 3:
 dictionary:
 dict is a data structure that stores value in key pair.value in a data dict can be any data type can be duplicate.
 //student={'name':'hp','age':45,'amout':50}
@@ -99,12 +99,20 @@ union:
  intersection:
  The intersection of two given sets is the largest set, which contains all the elements that are common to both sets. given sets A and B is a set which consists of all the elements which are common to both A and B.
   
-day4:loops:
+day 4:loops:
  pass: the pass statement in python is placeholder that does nothing when executed.
+ 
  continue: the continue statement in python is used to skip the current iteration of a loop and move to the next iteration.
+ 
  break: the break statement in python is used to terminate the loop prematurely when a certain condition is met.
-  for loop: a for loop is used for iterating over a sequence.
-  while loop: a while loop is used to repeatedly execute a block of code as long as a specified condition is true.
+ 
+ for loop: a for loop is used for iterating over a sequence.
+ 
+ while loop: a while loop is used to repeatedly execute a block of code as long as a specified condition is true.
+ 
+ nested loop:they are two types of loop which are for loop and while loop by using we can created nested loop in python nested loop means loops inside a loop.
+
+day 5: 
 
 
  
