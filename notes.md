@@ -125,6 +125,20 @@ parameters and arguments:
 return values:
 a function can return values by using return keyword.if no retrun statement  is mention the funtion implicity none.
 
+recursion:
+ it is program technigue where a function call itself either directly or indirectly to solve a problem by breaking into a small simpler sub problems.
+
+ factorial :
+  defines a recursive function to calculate factorial of a number, where function repeatedly calls itself with smaller values until it reaches the base case.
+
+  fibonacci:
+   defines a recursive function to calculate nth Fibonacci number, where each number is the sum of the two preceding ones, starting from 0 and 1.
+
+  
+
+
+
+
 
 
 
