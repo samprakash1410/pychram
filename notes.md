@@ -112,7 +112,20 @@ day 4:loops:
  
  nested loop:they are two types of loop which are for loop and while loop by using we can created nested loop in python nested loop means loops inside a loop.
 
-day 5: 
+day 5: funtions and recursion
+
+function: are using by def keywords,followed by function name,parathasis(),and colon .
+//def greet():
+  print("hello world")//
+  greet()//
+
+parameters and arguments:
+  function can accept input value is know has parameters during their definition.when funtion is know as actual values passes an arguments.
+
+return values:
+a function can return values by using return keyword.if no retrun statement  is mention the funtion implicity none.
+
+
 
 
  
