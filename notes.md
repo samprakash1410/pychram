@@ -140,7 +140,8 @@ day 6: I/O functions
   opening a file:
   to open a file in python we use the built-in open() function which takes the file name and mode as arguments.    
 
-  
+day 7: oops concetps
+
 
 
 
