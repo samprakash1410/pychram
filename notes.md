@@ -134,6 +134,12 @@ recursion:
   fibonacci:
    defines a recursive function to calculate nth Fibonacci number, where each number is the sum of the two preceding ones, starting from 0 and 1.
 
+day 6: I/O functions 
+   the process of performing operations on a file, such as creating, opening, reading, writing and closing it through a programming interface.
+
+  opening a file:
+  to open a file in python we use the built-in open() function which takes the file name and mode as arguments.    
+
   
 
 
