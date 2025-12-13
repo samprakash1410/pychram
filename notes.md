@@ -141,8 +141,23 @@ day 6: I/O functions
   to open a file in python we use the built-in open() function which takes the file name and mode as arguments.    
 
 day 7: oops concetps
- class and objects:
-  A class is a collection of objects,classes are blueprints for creating objects.class defines a set of attributes and methods that the created objects.
+ class:
+  A class is a collection of objects,classes are blueprints for creating objects.class defines a set of attributes and methods that they created objects.
+
+  object:
+   object is instance of a class.it represent a specific implementation of class and holds its own data.
+
+ __init__method:
+   method is the constructor in Python, automatically called when a new object is created.It initializes the attributes of the class.
+
+  default:
+   in python functions can have default arguments, which are parameters with predefined values.This means you don’t always need to pass every argument while calling a function.
+    #def function_name(param1=value1, param2=value2, ...):
+      #function body
+  
+  
+    
+
 
   
 
