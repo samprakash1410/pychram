@@ -141,7 +141,10 @@ day 6: I/O functions
   to open a file in python we use the built-in open() function which takes the file name and mode as arguments.    
 
 day 7: oops concetps
+ class and objects:
+  A class is a collection of objects,classes are blueprints for creating objects.class defines a set of attributes and methods that the created objects.
 
+  
 
 
 
