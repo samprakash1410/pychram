@@ -171,6 +171,12 @@ day 7: oops concetps
 
   5>hybrid: 
     A combination of two or more inheritance types, often creating complex structures like the Diamond Problem.
+
+abstraction:
+  in Python abstraction is used to hide the implementation details from the user and expose only necessary parts, making the code simpler and easier to interact with.
+
+  encapsulation:
+   
      
     
 
