@@ -179,7 +179,11 @@ abstraction:
    a way to restrict the direct access to some components of an object, so users cannot access state values for all of the variables of a particular object.
 
    polymorphism: 
-    
+    the ability of different objects to respond to the same method or function call in ways specific to their individual types.
+
+day 8: 
+
+  
    
      
     
@@ -202,3 +206,5 @@ abstraction:
 
 
   
+
+
