@@ -176,6 +176,10 @@ abstraction:
   in Python abstraction is used to hide the implementation details from the user and expose only necessary parts, making the code simpler and easier to interact with.
 
   encapsulation:
+   a way to restrict the direct access to some components of an object, so users cannot access state values for all of the variables of a particular object.
+
+   polymorphism: 
+    
    
      
     
