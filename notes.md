@@ -155,7 +155,23 @@ day 7: oops concetps
     #def function_name(param1=value1, param2=value2, ...):
       #function body
   
+  inheritance:
+   the process of creating a new class, known as the derived class, that inherits attributes and methods from an existing class, known as the base class.
+  1>single:
+    A derived class inherits from only one base class (e.g., Class B inherits from Class A). 
   
+  2>multiple:
+     A derived class inherits from multiple base classes (e.g., Class C inherits from Class A and Class B).
+  
+  3>multilevel:
+     A class inherits from a derived class, forming a chain.
+
+  4>hierarchical:
+     One base class has multiple derived classes (e.g., Class A is parent to B, C, and D).
+
+  5>hybrid: 
+    A combination of two or more inheritance types, often creating complex structures like the Diamond Problem.
+     
     
 
 
