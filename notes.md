@@ -181,7 +181,14 @@ abstraction:
    polymorphism: 
     the ability of different objects to respond to the same method or function call in ways specific to their individual types.
 
-day 8: 
+super method():
+  the super() function is used to call methods from a parent (superclass) inside a child (subclass), It allows you to extend or override inherited methods while still reusing the parent’s functionality.
+
+class method():
+ Methods are functions that implement the operations performed on objects of a class.an instance method based on an instance of the class or an object.
+
+private attributes and methods:
+ 
 
   
    
