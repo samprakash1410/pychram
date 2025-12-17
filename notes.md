@@ -190,7 +190,10 @@ class method():
 property decorator:
  A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure.>when you need controlled access or want to encapsulate logic without changing the API.
 
- 
+ private attribute:
+  encapsulation is a key principle of object-oriented programming (OOP), allowing you to restrict access to certain attributes or methods within a class.
+
+  
 
 
 
