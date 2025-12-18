@@ -193,7 +193,10 @@ property decorator:
  private attribute:
   encapsulation is a key principle of object-oriented programming (OOP), allowing you to restrict access to certain attributes or methods within a class.
 
-  
+lambda functions:
+ a lambda function is an anonymos fucntion defined without a name and without using a def keyword,lambda function can take any number of arguments but can only have one experssion.
+
+ 
 
 
 
