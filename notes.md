@@ -201,7 +201,17 @@ iterator:
  
  __iter__() return iterator objects it self and __next__() return next value of sequence.
 
-generators:
+generators: 
+ a special kind of function that uses the yield keyword to return an iterator, producing values one at a time and conserving memory by not storing the entire sequence at once.
+
+  decorators:
+   Decorators let you add functionality before and/or after function execution dynamically.
+
+arguments:
+ ad
+
+ 
+
  
  
 
