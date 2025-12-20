@@ -196,6 +196,13 @@ property decorator:
 lambda functions:
  a lambda function is an anonymos fucntion defined without a name and without using a def keyword,lambda function can take any number of arguments but can only have one experssion.
 
+iterator:
+ An iterator in Python is an object used to traverse through all the elements of a collection (like lists, tuples or dictionaries) one element at a time. It follows the iterator protocol. 
+ 
+ __iter__() return iterator objects it self and __next__() return next value of sequence.
+
+generators:
+ 
  
 
 
