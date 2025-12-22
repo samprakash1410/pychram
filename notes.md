@@ -208,7 +208,25 @@ generators:
    Decorators let you add functionality before and/or after function execution dynamically.
 
 arguments:
- ad
+ are the actual values that you pass to the function when you call it. These values replace the parameters defined in the function.
+
+ .Default:
+   is a parameter that have a predefined value if no value is passed during the function call.
+
+ ..keyword:
+   are passed by naming the parameters when calling the function. This lets us provide the arguments in any order, making the code more readable and flexible.
+
+  ...Positional:
+      values that we pass to a function in a specific order. The order in which we pass the arguments matters.
+
+  ....Arbitrary:
+      allow us to pass a number of arguments to a function. This is useful when we don't know in advance how many arguments we will need to pass.
+
+  .....Lambda:
+       work like regular functions, taking arguments to perform task in one simple expression. we can pass any number of arguments.
+
+
+
 
  
 
