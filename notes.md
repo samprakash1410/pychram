@@ -227,8 +227,22 @@ arguments:
 
 
 Modules:
- 
+ a file containing Python definitions and statements. The file name is the module name with the suffix .py appended.
 
+ .build in module:
+   These come bundled with Python and require no installation.
+
+ ..user define:
+    these are module u can create your self.
+
+  ...external:
+      these modules are install by using pip.
+
+  ....package:
+       a package is a directory contains multiple modules.with __init__.py files.
+
+  .....locate:
+        python search for module in a predefine dictories know has module search path.using this list > sys.path
  
 
  
