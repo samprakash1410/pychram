@@ -244,7 +244,17 @@ Modules:
   .....locate:
         python search for module in a predefine dictories know has module search path.using this list > sys.path
  
+map():
+  a simple tool for applying a function to every item in an iterable, like a list.
+ ..filter():
+    The filter function can be applied to an iterable such as a list or a dictionary and create a new iterator.
+  ...reduce():
+    a way to combine or aggregate a sequence of elements into a single value by repeatedly applying a specified function to pairs of elements.
 
+exception handle:
+  a mechanism to manage runtime errors, known as exceptions, allowing a program to continue running gracefully instead of crashing,allows the program to continue to execute even if an error occurs.
+
+  .
  
  
 
