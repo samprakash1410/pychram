@@ -270,6 +270,16 @@ sorting:
   .....bubble sort:
         Bubble Sort is an algorithm that sorts an array from the lowest value to the highest value.
 
+stacks and quees :
+    stack is a linear data structure that follows the Last-In>First-Out (LIFO),this means that the last element added is the first one to be removed,both insertion and deletion happen at the same end which is know as top of the stack.
+  ..quees:
+      queue is a linear data structure that follows the First-In-First-Out(FIFO).
+
+
+
+     
+
+
 
 
   
