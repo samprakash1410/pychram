@@ -254,9 +254,21 @@ map():
 exception handle:
   a mechanism to manage runtime errors, known as exceptions, allowing a program to continue running gracefully instead of crashing,allows the program to continue to execute even if an error occurs.
 
-  .
+sorting:
+ .quick sort:
+   an efficient, comparison-based sorting algorithm that uses a divide-and-conquer approach to arrange elements in a list.
+
+ ..merge sort:
+    Merge Sort is one of the most efficient and stable sorting algorithms based on the Divide and Conquer technique. It divides an input array into two halves, then merges the two sorted halves using a function called merge().
+
+  ...heap sort:
+      Heap Sort is a comparison-based sorting algorithm that uses a Binary Heap data structure. It works similarly to Selection Sort.
+
+  ....insert sort: 
+      The Insertion Sort algorithm uses one part of the array to hold the sorted values, and the other part of the array to hold values that are not sorted yet.
  
- 
+  .....bubble sort:
+        Bubble Sort is an algorithm that sorts an array from the lowest value to the highest value.
 
 
 
