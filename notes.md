@@ -275,7 +275,10 @@ stacks and quees :
   ..quees:
       queue is a linear data structure that follows the First-In-First-Out(FIFO).
 
+binary tree:
+  a form of a tree whose nodes cannot have more than two children. binary tree has two pointers associated with it, one points to the left child, and the other points to the right child of the node.
 
+  ..
 
      
 
